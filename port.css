@@ -1,0 +1,59 @@
+.foto-perfil {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.tema {
+    background-image: url(Tlou2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.corPrimaria {
+    background-color: black;
+}
+
+.corSecundaria {
+    background-color: white;
+}
+
+p {
+    font-family: lato, 'Halvetica neue', Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.icones {
+    padding-left: 5px;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: below;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.tituloPreto {
+    text-decoration: underline;
+    text-underline-position: below;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.textosBrancos {
+    color: white;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
